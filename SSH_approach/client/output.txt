@@ -1,0 +1,4 @@
+accuracy: 38
+prescision: 4
+recall: 3
+f1score: 3
